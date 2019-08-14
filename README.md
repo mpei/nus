@@ -18,7 +18,7 @@ NUS (NeoUS Keyboard Layout)
 **Installation (Linux, Ubuntu)**
 
 * Append contents of file NUS to /usr/share/X11/xkb/symbols/us
-> ```cat NUS >> /usr/share/X11/xkb/symbols/us```
+> ```cat nus >> /usr/share/X11/xkb/symbols/us```
 
 **How to use setxkbmap**
 
